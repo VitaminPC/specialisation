@@ -24,6 +24,9 @@
                 result[result.Length - 1] = array[i];
             }
 
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine("Список слов длинной меньше или равной 3 :");
         PrintArray(result);
 
     }
